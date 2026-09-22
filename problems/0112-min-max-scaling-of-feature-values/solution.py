@@ -8,7 +8,6 @@ def min_max(x: list[float]) -> list[float]:
     Returns:
         A new list with values normalized to [0, 1]
     """
-    # Your code here
     x_max = max(x)
     x_min = min(x)
     scaled_list = []

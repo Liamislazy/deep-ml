@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T15:57:07.129Z",
+  "generated_at": "2026-09-28T16:42:35.030Z",
   "items": {
     "problem:151": {
       "kind": "problem",
@@ -78,6 +78,19 @@
       "last_pushed_at": "2026-09-27T15:57:04.959Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:1228": {
+      "kind": "problem",
+      "id": "1228",
+      "title": "Mean Squared Error from Scratch",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1228",
+      "path": "problems/1228-mean-squared-error-from-scratch",
+      "first_solved_at": "2026-09-28T16:42:31.746Z",
+      "last_pushed_at": "2026-09-28T16:42:31.746Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
